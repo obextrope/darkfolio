@@ -1,5 +1,5 @@
 ---
-title: Concrete Cat
+title: Studio Work
 thumbnail: "../static/uploads/25c51f70439237.5ba36d85ba934.jpg"
 year: 2012-Present
 categories:
