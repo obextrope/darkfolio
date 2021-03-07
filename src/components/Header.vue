@@ -22,7 +22,7 @@
       </span>
     </g-link>
     <div class="contact">
-      <a class="link" :href="`mailto:${data.email}`">say hi !</a>
+      <a class="link" :href="`mailto:${data.email}`">email button :⁾</a>
     </div>
   </header>
 </template>
