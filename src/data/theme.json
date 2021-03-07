@@ -1,23 +1,13 @@
 {
-  "site_name": "DPT",
-  "header_title": "Darkfolio Portfolio Theme",
+  "site_name": "na-sys",
+  "header_title": "Nathæl Armstrong",
   "first_letter_only": true,
-  "email": "nichlas@itsnwa.com",
+  "email": "obextrope@gmail.com",
   "social": [
     {
-      "channel": "twitter",
-      "handle": "nichlaswa",
-      "link_text": "tw"
-    },
-    {
-      "channel": "instagram",
-      "handle": "its.nwa",
-      "link_text": "ig"
-    },
-    {
-      "channel": "github",
-      "handle": "itsnwa",
-      "link_text": "gh"
+      "channel": "",
+      "handle": "",
+      "link_text": ""
     }
   ]
 }
