@@ -5,6 +5,6 @@ year: "2020"
 categories: []
 
 ---
-This project was a collaboration with Vivian Han*Tat, visit her site for the full series
+This project was a collaboration with [Vivian Han*Tat](https://www.vivianht.com/), visit her site for the full [story](https://www.vivianht.com/gallery/pink-palace-head-empty)
 
-![](/uploads/ebce4060883469.5aa7c8a544058.gif)![](/uploads/0307ca60883469.5a5cccc985b70.jpg)![](/uploads/310c8060883469.5a5cccc98ab9b.jpg)![](/uploads/e9e36060883469.5a5cccc987050.jpg)![](/uploads/e9becf60883469.5a5cf1e6c8f3f.gif)![](/uploads/278cb260883469.5a5cccc98a0b0.jpg)![](/uploads/f5739b60883469.5a5cccc987c40.jpg)![](/uploads/1aff4160883469.5a5cfd03c56af.gif)![](/uploads/f6477e60883469.5a5cccc98834b.jpg)![](/uploads/3dd5e460883469.5a5cccc98ee1e.jpg)
+![](/uploads/2021/PinkPalace/PINK PALACE_HEAD EMPTY_gif.gif)![](/uploads/2021/PinkPalace/2_1411-010-4.jpg)![](/uploads/2021/PinkPalace/2_1413-008_crop-15.jpg)
