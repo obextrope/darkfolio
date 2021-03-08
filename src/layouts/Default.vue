@@ -19,9 +19,9 @@ export default {
 </script>
 
 <style lang="scss">
-@import url("https://rsms.me/inter/inter.css");
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 html {
-  font-family: "Inter", sans-serif;
+  font-family: 'Press Start 2P', cursive;
   font-size: 14px;
   font-weight: 500;
   box-sizing: border-box;
@@ -29,7 +29,7 @@ html {
 
 @supports (font-variation-settings: normal) {
   html {
-    font-family: "Inter var", sans-serif;
+    font-family: 'Press Start 2P', cursive;
   }
 }
 
