@@ -65,11 +65,11 @@ export default {
   }
 }
 .name {
-  font-size: 1rem;
+  font-size: 1.3rem;
   font-weight: 500;
   user-select: none;
   margin: 0;
-  cursor: pointer;
+  cursor: progress;
   .word {
     margin-right: 0.5rem;
     &.first-line {
