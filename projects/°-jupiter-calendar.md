@@ -5,7 +5,7 @@ year: "2020"
 categories: []
 
 ---
-      <p style="font-family:roboto,courier,garamond,serif;font-size:16px;font-style:italic;">This project was a collaboration with <span style="color:#E24167">[Vivian Han*Tat](https://www.vivianht.com/)</span>, visit her site for the full <span style="color:#C1BC00">
+<p style="font-family:roboto,courier,garamond,serif;font-size:16px;font-style:italic;">This project was a collaboration with <span style="color:#E24167">[Vivian Han*Tat](https://www.vivianht.com/)</span>, visit her site for the full <span style="color:#C1BC00">
 [story](https://www.vivianht.com/gallery/pink-palace-head-empty)</span></p>
 
 ![](/uploads/2021/PinkPalace/PINKPALACEHEADEMPTY.gif)  
