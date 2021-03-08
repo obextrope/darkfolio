@@ -40,7 +40,7 @@ html {
 }
 body {
   background-color: #A9B4D3;
-  color: white;
+  color: #BDDC9A;
   margin: 0;
   padding: 0;
 }
