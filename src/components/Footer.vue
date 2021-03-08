@@ -49,7 +49,7 @@ export default {
 .to-top {
   transform: rotate(-90deg);
   user-select: none;
-  cursor: pointer;
+  cursor: default;
   border: 2px solid transparent;
   text-align: center;
   font-weight: 700;
