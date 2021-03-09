@@ -46,6 +46,9 @@ export default {
   font-size: 1.3rem;
   font-weight: 500;
   margin: 0;
+  cursor: url(/uploads/orgngey.cur), auto;
+  &:hover {
+    color:  #0000FF;
 }
 .project-categories {
   flex: 1;
@@ -64,6 +67,9 @@ t-size: 1.3rem;
   flex: 1;
   font-size: 1.3rem;
   text-align: right;
+  cursor: url(/uploads/orgngey.cur), auto;
+  &:hover {
+    color:  #0000FF;
 }
 </style>
 
