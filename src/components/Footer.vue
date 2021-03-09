@@ -54,6 +54,7 @@ export default {
   font-weight: 700;
   line-height: 0;
   padding: 1rem 0.5rem;
+  cursor: url(/uploads/bluehaloapplepointer.cur), auto;
   &:hover {
     border: 2px solid white;
   }
