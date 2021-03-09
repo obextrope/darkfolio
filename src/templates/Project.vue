@@ -57,7 +57,7 @@ export default {
 img {
   width: 100% !important;
   margin-bottom: 2rem;
-  cursor: url(/uploads/bluehaloapplepointer.cur), auto;
+  cursor: url(/uploads/orgngey.cur), auto;
 }
 p {
   margin: 0;
