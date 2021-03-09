@@ -71,7 +71,7 @@ t-size: 1.3rem;
   font-size: 1.3rem;
   text-align: right;
   cursor: url(/uploads/orgngey.cur), auto;
-  transition: color 0.6s ease,
+  transition: color 0.6s ease;
   color: #CBFF80;
   &:hover {
     color:  #0000FF;
