@@ -61,7 +61,7 @@ export default {
   z-index: 100;
   opacity: 1;
   color: #EF5C7B;
-  transition: opacity 0.6s ease;
+  transition: opacity 0.5s ease;
   &.hidden {
     opacity: 0;
   }
@@ -71,7 +71,7 @@ export default {
   font-weight: 500;
   user-select: none;
   margin: 0;
-  cursor: url(/uploads/bluehaloapplepointer.cur), auto;
+  cursor: url(/uploads/orgngey.cur), auto;
   .word {
     margin-right: 0.5rem;
     &.first-line {
