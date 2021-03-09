@@ -61,7 +61,7 @@ export default {
   z-index: 100;
   opacity: 1;
   color: #EF5C7B;
-  transition: opacity 0.5s ease;
+  transition: opacity 0.6s ease;
   &.hidden {
     opacity: 0;
   }
@@ -84,7 +84,7 @@ export default {
   }
   &.first {
     .letter {
-      transition: opacity 0.15s ease;
+      transition: opacity 0.3s ease;
       opacity: 0;
     }
     .first-letter {
