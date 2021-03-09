@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    <div class="to-top" @click="scrollTopTop">-></div>
+    <div class="to-top" @click="scrollTopTop">—></div>
     <div class="social">
       <a
         class="channel"
@@ -56,7 +56,9 @@ export default {
   padding: 1rem 0.5rem;
   cursor: url(/uploads/bluehaloapplepointer.cur), auto;
   &:hover {
-    border: 2px solid white;
+    border: 2px solid #EF5C7B;
+    color:  #faa21b;
+    cursor: url(/uploads/bluehaloapplepointer.cur), auto;
   }
 }
 .social {
