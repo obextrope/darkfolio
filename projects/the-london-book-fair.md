@@ -2,7 +2,8 @@
 title: Experimental
 thumbnail: "../static/uploads/Various/deep chamber prev1.jpg"
 year: new
-categories: []
+categories:
+- ''
 
 ---
 ongoing  
