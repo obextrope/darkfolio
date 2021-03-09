@@ -54,7 +54,7 @@ a {
   padding-bottom: 0.25rem;
   transition: border 0.15s ease;
   &:hover {
-    border-bottom: 1.5px solid 0000FF;
+    border-bottom: 1.5px solid #0000FF;
   }
 }
 </style>
