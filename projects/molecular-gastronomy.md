@@ -2,7 +2,8 @@
 title: Studio Technical Design
 thumbnail: "../static/uploads/dop-head.jpg"
 year: 2012-Present
-categories: []
+categories:
+- ''
 
 ---
 Concepts/automation/animation
