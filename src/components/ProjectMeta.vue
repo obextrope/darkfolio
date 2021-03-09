@@ -48,6 +48,7 @@ export default {
   margin: 0;
   cursor: url(/uploads/orgngey.cur), auto;
   &:hover {
+  }
     color:  #0000FF;
 }
 .project-categories {
@@ -70,6 +71,7 @@ t-size: 1.3rem;
   cursor: url(/uploads/orgngey.cur), auto;
   &:hover {
     color:  #0000FF;
+  }
 }
 </style>
 
