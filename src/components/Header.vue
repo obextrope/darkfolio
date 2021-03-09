@@ -71,6 +71,7 @@ export default {
   font-weight: 500;
   user-select: none;
   margin: 0;
+  cursor: url(static/uploads/bluehaloapplepointer.cur), auto; }
   .word {
     margin-right: 0.5rem;
     &.first-line {
