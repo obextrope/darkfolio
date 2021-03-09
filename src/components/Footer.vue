@@ -56,9 +56,9 @@ export default {
   padding: 1rem 0.5rem;
   cursor: url(/uploads/bluehaloapplepointer.cur), auto;
   &:hover {
-    border: 2px solid #CC4247;
+    border: 2px solid #9DFF50;
     mix-blend-mode: hard-light;
-    color:  #E2D63E;
+    color:  #0000FF;
     cursor: url(/uploads/bluehaloapplepointer.cur), auto;
   }
 }
