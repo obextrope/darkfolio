@@ -44,7 +44,7 @@ export default {
   justify-content: space-between;
   padding: 0 2rem;
   z-index: 100;
-  mix-blend-mode: difference;
+  mix-blend-mode: hard-light;
 }
 .to-top {
   transform: rotate(-90deg);
@@ -53,11 +53,12 @@ export default {
   text-align: center;
   font-weight: 700;
   line-height: 0;
+  color:  #96903B;
   padding: 1rem 0.5rem;
   cursor: url(/uploads/bluehaloapplepointer.cur), auto;
   &:hover {
-    border: 2px solid #EF5C7B;
-    color:  #faa21b;
+    border: 2px solid #CF4D52;
+    color:  #CF4D52;
     cursor: url(/uploads/bluehaloapplepointer.cur), auto;
   }
 }
