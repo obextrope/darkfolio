@@ -71,7 +71,7 @@ export default {
   font-weight: 500;
   user-select: none;
   margin: 0;
-  cursor: url(https://github.com/obextrope/darkfolio/blob/b293ebd4152b1ecc663f571928052e3edfd77676/static/uploads/bluehaloapplepointer.cur), auto;
+  cursor: url(/uploads/bluehaloapplepointer.cur), auto;
   .word {
     margin-right: 0.5rem;
     &.first-line {
