@@ -47,7 +47,7 @@ export default {
   font-weight: 500;
   margin: 0;
   cursor: url(/uploads/orgngey.cur), auto;
-  transition: color 0.6s ease,
+  transition: color 0.6s ease;
   color: #CBFF80;
   &:hover {
   color:  #0000FF;
