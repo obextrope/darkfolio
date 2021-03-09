@@ -8,4 +8,4 @@ categories:
 ---
 Concepts/automation/animation
 
-![](/uploads/Various/proceduralkafka.png)![](/uploads/procedural-oracal-2.jpg)![](/uploads/oracle-erosion.jpg)![](/uploads/Various/bubble zone.52.jpg)
+![](/uploads/Various/proceduralkafka.png)![](/uploads/procedural-oracal-2.jpg)![](/uploads/oracle-erosion.jpg)![](/uploads/bubble-zone-52.jpg)
