@@ -131,7 +131,7 @@ p {
   position: relative;
   overflow: hidden;
   width: 100%;
-  padding-top: 75%; /* 4:3 Aspect Ratio */
+  padding-top: 100%; /* 1:1 Aspect Ratio */
 }
 
 /* Then style the iframe to fit in the container div with full height and width */
