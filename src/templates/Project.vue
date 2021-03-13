@@ -128,10 +128,9 @@ p {
 }
 
 .container {
-  position: relative;
-  overflow: hidden;
-  width: 100%;
-  padding-top: 100%; /* 1:1 Aspect Ratio */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 /* Then style the iframe to fit in the container div with full height and width */
