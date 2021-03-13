@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .photocontainer {
+        background-color: darkkhaki;
+        display: flex;
+        flex-shrink: 2;
+        width: 100%;
+
+        box-sizing: border-box;
+        height: auto;
+      }
+
+      .photo {
+        flex: 1;
+        overflow: cover;
+        transition: 1s;
+        transition-timing-function: linear;
+        transition-delay: 0.1s;
+        margin: 0 00% rgba(0, 0, 0, 0.1);
+        line-height: 0;
+      }
+
+      .photo > img {
+        width: 100%;
+        height: calc(100% + 0vh);
+        object-fit: fill;
+        transition: 6s;
+      }
+
+      .photo > span {
+        font-size: 3vh;
+        display: block;
+        text-align: center;
+        height: 10vh;
+        line-height: 1;
+        color: white;
+      }
+      .photo:hover {
+        flex: 1 1 75%;
+      }
+      .photo:hover > img {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        top: 0px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="photocontainer">
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x802" />
+      </div>
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x804" />
+      </div>
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x806" />
+      </div>
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x800" />
+      </div>
+    </div>
+
+    <div class="photocontainer">
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x802" />
+      </div>
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x804" />
+      </div>
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x806" />
+      </div>
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x800" />
+      </div>
+    </div>
+
+    <div class="photocontainer">
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x802" />
+      </div>
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x804" />
+      </div>
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x806" />
+      </div>
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x800" />
+      </div>
+    </div>
+
+    <div class="photocontainer">
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x802" />
+      </div>
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x804" />
+      </div>
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x806" />
+      </div>
+      <div class="photo">
+        <img src="https://source.unsplash.com/1000x800" />
+      </div>
+    </div>
+
+    <script>
+      var app = new Vue({
+        el: "#app",
+        data: {
+          message: "Hello Vue!"
+        }
+      });
+    </script>
+  </body>
+</html>
