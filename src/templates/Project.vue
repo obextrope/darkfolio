@@ -144,6 +144,6 @@ p {
   width: 100%;
   height: 100%;
   border: none; 
-  overflow: auto;
+  overflow: visible;
 }
 </style>
