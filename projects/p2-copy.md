@@ -11,4 +11,5 @@ categories: []
 ![](/uploads/screenshot-2022-09-25-204133.png)  
 ![](/uploads/screenshot-2022-05-07-120353.png)  
 ![](/uploads/screenshot-2022-08-03-165140.png)  
+![](/uploads/repetition.png)  
 :)
