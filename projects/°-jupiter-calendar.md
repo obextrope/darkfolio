@@ -1,7 +1,7 @@
 ---
 title: Pink Palace//Head Empty
 thumbnail: "../static/uploads/2021/PinkPalace/2_1409-003-22.jpg"
-year: ":')"
+year: "2"
 categories:
 - ''
 

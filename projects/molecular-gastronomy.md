@@ -1,7 +1,7 @@
 ---
 title: Studio Technical Design
 thumbnail: "../static/uploads/oracle-erosion.jpg"
-year: 2012-Present
+year: "1"
 categories:
 - ''
 
