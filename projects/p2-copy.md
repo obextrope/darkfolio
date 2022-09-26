@@ -1,5 +1,5 @@
 ---
-title: p2
+title: p2-(copy)
 thumbnail: "../static/uploads/the-degaussing-key-003-hires.png"
 year: "4"
 categories: []
